@@ -1,0 +1,23 @@
+#container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#photo-container {
+	margin-top: 50px;
+}
+
+#photo {
+	max-width: 500px;
+	max-height: 500px;
+}
+
+#buttons {
+	margin-top: 50px;
+	display: flex;
+}
+
+.choice-button {
+	margin-right: 10px;
+}
